@@ -1,0 +1,1 @@
+This code is for the Python Strings assignment in Module 2 Lesson 6
